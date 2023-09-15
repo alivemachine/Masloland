@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-<img src="https://github.com/alivemachine/Paiper/blob/04/ogthumb.png" />
+<img src="https://alivemachine.io/image/galeriehd/knob07.jpg" />
 <br>Masloland
 </h1>
 <h3>◦ Transform your code into a magical journey!</h3>
