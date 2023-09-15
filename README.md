@@ -3,7 +3,7 @@
 <img src="https://alivemachine.io/image/galeriehd/knob07.jpg" />
 <br>Masloland
 </h1>
-<h3>◦ Transform your code into a magical journey!</h3>
+<h3>◦ Transform your computer into a magical journey!</h3>
 <h3>◦ Developed with the software and tools listed below.</h3>
 
 <p align="center">
@@ -39,6 +39,10 @@
 
 
 ## 📍 Overview
+
+## Web Navigation with Radio Knob:
+
+Introducing a unique web navigation system using a singular radio knob that connects to diverse web spaces, akin to organic cells. These "cells" are self-reading HTML documents that organically connect when placed in a directory, acting as a blend of interface, architecture, and data storage. When saved, they adaptively reflect their content based on the environment. Over time, the knob learns user behavior, integrating AI to influence experience and functionality. Interactions include drag-and-drop or using a wheel. Clicking on the knob lets users access child cells or domains, enhancing the ambient audio-visual browsing experience.
 
 The Masloland project is a collection of webpages that showcase various interactive experiences. The core functionalities include creating customizable doors with knob interfaces, bypassing CORS errors, integrating with Google Analytics, displaying random content from external sources, and providing tools for managing user accounts and data. The purpose of the project is to provide users with engaging and visually appealing experiences while also offering features for customization and personalization. The value proposition of Masloland lies in its ability to provide a playful and interactive platform for users to explore different destinations and create unique experiences.
 
