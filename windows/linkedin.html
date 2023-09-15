@@ -1,0 +1,25 @@
+<html><head>
+<link href="https://alivemachine.io/maslom/CSS/knobStyle.css" rel="stylesheet" type="text/css" />
+<script src="../Javascript/doorLoad.js" type="text/javascript"></script>
+<script type="text/javascript">destination = ["../index.html"];
+	var ambiences = ["https://www.youtube.com/embed/dx3GxpitvbY?autoplay=1", "https://www.youtube.com/embed/gaGrHUekGrc?autoplay=1", "https://www.youtube.com/embed/QA1Xekk8Ndg?autoplay=1"];
+	var randomAmbience = ambiences[Math.floor(Math.random()*ambiences.length)];
+	setTimeout(function(){
+		var iframe = document.createElement('iframe');
+		iframe.width = "160";
+		iframe.height = "90";
+    	iframe.src = randomAmbience;
+		iframe.frameBorder = "0";
+		iframe.className = "cornerframe"
+    	document.body.appendChild(iframe);
+	},1000);
+</script>
+</head><body><div id="door"> <!--Insert here your custom door-->
+	<div style="height:100%; width:100%; background-color:midnightblue; position:absolute;"></div>
+	<div style="background-image: url(new-york-cinemagraph-6.gif); background-size:cover; background-position: center; height:100%; width:100%; position: absolute;  opacity:.3;"></div>
+ 	<div id="personality" style="mix-blend-mode:normal;"><h1>Linkedin city</h1></div>
+
+ 	
+</div>
+
+</body></html>
