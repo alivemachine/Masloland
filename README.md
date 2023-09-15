@@ -3,7 +3,7 @@
 <img src="https://alivemachine.io/image/galeriehd/knob07.jpg" />
 <br>Masloland
 </h1>
-<h3>◦ Transform your computer into a magical journey!</h3>
+<h3>◦ Transform your OS into a magical journey!</h3>
 <h3>◦ Developed with the software and tools listed below.</h3>
 
 <p align="center">
