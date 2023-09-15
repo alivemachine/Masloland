@@ -34,6 +34,7 @@
 - [🚀 Getting Started](#-getting-started)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
+- [+ More](#-more)
 
 ---
 
@@ -189,3 +190,27 @@ The project maintainers will review your changes and provide feedback or merge t
 This project is licensed under the MIT License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
 
 ---
+
+## More
+
+### Possible implementations
+
+- [News](https://alivemachine.io/newsradio.html)
+- [Time](https://alivemachine.io/time/)
+- [OM](https://alivemachine.io/om/door.html)
+- [Cell Prototype](http://alivemachine.io/maslom/)
+- [Platform UX](http://alivemachine.io/masloplatform/)
+- [Masloland](https://alivemachine.io/om/masloland/door.html)
+- [The Art Machine](http://alivemachine.io/artmachine/index.html)
+
+### Additional documentaton
+
+- [The fractal composition of the experience](https://pasteapp.com/p/PPCiqRbSCAe/s/QPiFuGbIC1p?view=p51fqEbXjXR)
+- [Evolution of the knob](https://pasteapp.com/p/PPCiqRbSCAe/s/lhgNq3gXHPR?view=p51fqEbXjXR)
+
+- [Waslom](https://pasteapp.com/p/PPCiqRbSCAe/s/EtfvrNVwD3F?view=p51fqEbXjXR)
+- [Rise and Fall of the Mechanical Mind](https://medium.com/maslo/rise-and-fall-of-the-mechanical-mind-6d2f896fa3d0)
+- [The toxicity of computer interfaces](https://medium.com/maslo/the-toxicity-of-computer-interfaces-aed50074e6c7)
+
+---
+
